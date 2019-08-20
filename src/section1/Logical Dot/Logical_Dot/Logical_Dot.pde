@@ -1,9 +1,10 @@
 
 
-void setup() {
+void setup () //<>//
+{ size(900,800); 
   
 }
 
-void draw() {
-  
+void draw() { ellipse (100,100,100,100) ;
+ fill(#5F320E); 
 }
