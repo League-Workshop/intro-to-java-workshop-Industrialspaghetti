@@ -24,7 +24,7 @@ String place= JOptionPane.showInputDialog ("please enter the name of a place");
 		// likely take a bite out of your [body part] if you [verb]. Whatever
 		// you do, if you have an open wound, try to find another way to get
 		// back to the [place]. Good luck!
-JOptionPane.showMessageDialog(null, "Pirahnas are more " +adjective   
+JOptionPane.showMessageDialog(null, "Pirahnas are more " ); 
 		
 		// Make a pop-up for the final story. You can use \n to go to the next line
 		

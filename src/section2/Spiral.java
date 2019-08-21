@@ -39,7 +39,7 @@ public class Spiral {
 
 			}
 			// 6. Move the robot 5 times the loop counter (5*i)
-			N365.move(-1 * i);
+			N365.move 1 * i);
 			// 2. Turn the robot 360/3 degrees to the right
 			N365.turn(360 / 7);
 			// 8. Set the pen width to i
